@@ -1,3 +1,3 @@
 # FirebaseExample
 
-Simple firebase example
+Simple firebase example.
